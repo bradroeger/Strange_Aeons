@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4c4f8d981f0c69e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad60e4babff3744b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed40b3822524688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book 1/Act 1/Foggy Memories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foggy Memories"
+            }
+          }
+        ]
+      },
+      {
+        "id": "27e186231210899f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b49e4b9fd39a65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b49cdde2715b8ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d95a664a25135587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b9f5b7c094b6e6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "601d4e81f017f0fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cb0f6fdd0d82df4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efbb2f35cbd4705c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0806e3e8f5b78a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b92252a77aa7130",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book 1/Act 1/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2318d461ef7703ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Book 1/Act 1/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "430c102309a47d7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b3ce2a78710d2b5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "23569fa29a1fd05a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Book 1/Act 1/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8998a09555c2c9ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5ed40b3822524688",
+  "lastOpenFiles": [
+    "Book 1/Act 1/Creatures/Tatterman.md",
+    "Book 1/Act 1/Creatures",
+    "Book 1/Act 1/Foggy Memories.md",
+    "Templates/Scene Template.md",
+    "Templates/Room Template.md",
+    "Templates/NPC Template.md",
+    "Templates/Location Template.md",
+    "Book 1/Act 1",
+    "Book 1",
+    "NPC Template.md",
+    "Location Template.md",
+    "Welcome.md",
+    "Random Encounter Template.md",
+    "Templates/Random Encounter Template.md",
+    "Templates"
+  ]
+}
